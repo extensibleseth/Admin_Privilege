@@ -1,4 +1,4 @@
-# Admin_Privilege
+# Admin Privilege
 TL;DR
 Grants admins the ability to restrict access to otherwise editable nodes.
 
